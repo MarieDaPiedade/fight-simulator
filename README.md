@@ -1,5 +1,5 @@
 # fight-simulator
-Fight Simulator avec Javascript
+Technology used : Javascript
 
 Project carried out as part of the Believemy training. 
 Learning to use classes in Javascript.
